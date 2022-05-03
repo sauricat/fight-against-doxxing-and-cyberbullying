@@ -1,2 +1,5 @@
-# fight-against-doxxing-and-cyberbullying
-We want to do some theory and toolkits on how to avoid being doxxed or cyberbullied in SNS and other cyberspaces. 
+# 反对网络暴力：理论与工具包
+
+我们希望通过一些具体的理论和工具，来帮助大家，尤其是少数群体，在上网的时候避免各种各样的网络暴力，包括但不限于个人信息泄露（doxxing，俗称被出道）、大范围的网络人身攻击，以及以网络形式的性骚扰等，并且在发生这些事情的时候，提供心理上的帮助、减少损失。
+
+计划以一系列公开分享和编辑的文档来做到这些。
